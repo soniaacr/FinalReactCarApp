@@ -1,0 +1,7 @@
+.nav {
+    list-style-type: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: pink;
+}
